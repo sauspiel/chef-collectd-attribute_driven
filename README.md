@@ -6,7 +6,7 @@ Chef cookbook that adds collectd pulgins via node attributes.
 Requirements
 ------------
 
-[collectd-cookbook](https://github.com/coderanger/chef-collectd)
+[collectd-cookbook](https://github.com/sauspiel/chef-collectd)
 
 Usage
 -----
